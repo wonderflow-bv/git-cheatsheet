@@ -4,8 +4,8 @@ A quick reference for before your morning coffee.
 
 * [Basic](./basic/README.md)
 * [Branching](#branching)
-  * [Create new branch](#create-branch)
-  * [Switch to a branch]($switch-branch)
+  * [Create new branch](#create-new-branch)
+  * [Switch to a branch](#switch-branch)
   * [Merge branches](#merge-branches)
   * [Delete a branch locally](#delete-branch)
   * [List](#list-branches) 
