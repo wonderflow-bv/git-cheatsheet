@@ -21,7 +21,7 @@ A quick reference for before your morning coffee.
 #<a id="branching">Branching</a>
 ###<a id="create-new-branch">Create a new branch</a>
 ```bash
-git checout -b <name>
+git checkout -b <name>
 ```
 
 
